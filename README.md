@@ -13,7 +13,7 @@ A simple Bookmark Manager Web Application built using:
 -Firebase (Authentication + Firestore Database)
 
 -Deployed on Vercel
-Link : https://bookmark-manager-ajlr10agt-rifanapas-projects.vercel.app/
+Link : http://bookmark-manager-seven-rho.vercel.app/
 
 How to Use the Website
 1️. Login
