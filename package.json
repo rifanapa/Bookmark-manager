@@ -8,9 +8,15 @@
     "start": "next start"
   },
   "dependencies": {
+    "animate.css": "^4.1.1",
+    "antd": "^6.3.0",
+    "firebase": "^12.9.0",
+    "moment": "^2.30.1",
+    "nanoid": "^5.1.6",
     "next": "16.1.6",
     "react": "19.2.3",
-    "react-dom": "19.2.3"
+    "react-dom": "19.2.3",
+    "zustand": "^5.0.11"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
