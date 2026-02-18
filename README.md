@@ -2,6 +2,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+Note: This website is currently optimized for desktop view only. Mobile devices may experience layout inconsistencies. Responsive design improvements are planned for future updates.
 
 Bookmark Manager
 
